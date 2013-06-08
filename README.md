@@ -1,5 +1,5 @@
-# Clojure tutorial example project files
+## Clojure tutorial example project files
 
-This repo containes project examples from the CAN Clojure tutorial, it is aimed to give you a taste of functional programming with [Clojure](http://clojure.org), for the full article please go over [here](http://www.creativeapplications.net/reference/introduction-t…mming-language/).
+This repo contains project examples for Clojure tutorial hosted in CAN, it is aimed to give you a taste of functional programming with [Clojure](http://clojure.org), if you haven't read the article already we invite you to head over [here](http://www.creativeapplications.net/reference/introduction-to-clojure/).
 
 Hope you like it!
